@@ -1,0 +1,65 @@
+{
+  "name": "als_info",
+  "displayName": "ALS Information",
+  "priority": 500000,
+  "trainingPhrases": [
+    {
+      "parts": [
+        {
+          "text": "What is ALS?"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Tell me about ALS"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Define ALS"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "What is Amyotrophic Lateral Sclerosis?"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "I want to know about ALS"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Can you explain what ALS is?"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Information about Lou Gehrig's disease"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "text": {
+        "text": [
+          "Amyotrophic Lateral Sclerosis (ALS) is a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord. It causes the death of neurons that control voluntary muscles, leading to muscle weakness, paralysis, and eventually respiratory failure. ALS is also known as Lou Gehrig's disease, named after the famous baseball player who was diagnosed with it."
+        ]
+      }
+    }
+  ]
+}

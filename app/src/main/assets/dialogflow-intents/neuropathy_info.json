@@ -1,0 +1,65 @@
+{
+  "name": "neuropathy_info",
+  "displayName": "Neuropathy Information",
+  "priority": 500000,
+  "trainingPhrases": [
+    {
+      "parts": [
+        {
+          "text": "What is neuropathy?"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Tell me about neuropathy"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Define neuropathy"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "What is diabetic neuropathy?"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "I want to know about nerve damage"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Can you explain what neuropathy is?"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "text": "Information about peripheral neuropathy"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "text": {
+        "text": [
+          "Neuropathy refers to damage or dysfunction of one or more nerves that typically results in numbness, tingling, muscle weakness, and pain in the affected area. Diabetic neuropathy is a type of nerve damage that can occur if you have diabetes, most commonly affecting the legs and feet. It's caused by prolonged high blood sugar levels that damage nerves throughout the body."
+        ]
+      }
+    }
+  ]
+}
